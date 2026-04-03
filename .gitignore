@@ -47,3 +47,15 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# macOS metadata
+.DS_Store
+
+# Claude Code
+CLAUDE.md
+
+# Data files
+*.tsv
+*.csv
+*.rds
+*.json
