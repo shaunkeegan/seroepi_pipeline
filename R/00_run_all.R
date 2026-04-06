@@ -1,8 +1,5 @@
 # 00_run_all.R
 # Master script — toggle run_XX flags and set pipeline_config, then source.
-# Figure scripts (07-11) are hardcoded to MODE = "core"; run individually
-# or via the toggles below.
-
 
 # Configuration
 
